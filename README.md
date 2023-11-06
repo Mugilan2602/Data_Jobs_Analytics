@@ -14,3 +14,4 @@ This analytics project aims to provide a comprehensive understanding of data-rel
 
 ## Dashboard
 ![Distinguishing Data Jobs_pages](https://github.com/Mugilan2602/Data_Jobs_Analytics/assets/146967457/d6c7c244-ce21-4cd3-8058-28fdf7125270)
+> link to dashboard-https://app.powerbi.com/view?r=eyJrIjoiNmYxYmJjYjgtOTg0YS00NjkzLWI0OGUtNzdmNjRiMWI1NjNmIiwidCI6ImFjYzllM2QxLTMwZTEtNDQ4NC1hZDkzLWVjYzNjNmEyY2E3YiJ9
